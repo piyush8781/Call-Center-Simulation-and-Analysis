@@ -15,3 +15,8 @@ The SQL Server database is integrated with Power BI using direct query mode. Thi
 * The data generation process includes random selection of call parameters such as location, company, issue type, CSR, call duration, status, and customer rating.
 * Power BI retrieves the call data from the SQL Server database in real-time through direct query mode.
 * The Power BI dashboard presents visualizations and insights based on the retrieved call data, allowing users to analyze call center performance and trends.
+## Call Center Simulation and Analysis Video Demonstration
+
+
+https://github.com/piyush8781/Call-Center-Simulation-and-Analysis/assets/163038938/b2d644b8-2576-46d9-b0c1-a81627357e68
+
